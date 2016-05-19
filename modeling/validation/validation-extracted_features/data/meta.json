@@ -1,0 +1,13 @@
+{
+    "target_names": {
+        "0": "Not Podcast", 
+        "1": "Podcast"
+    }, 
+    "feature_names": [
+        "prev_duration", 
+        "prev_avg_rating_news", 
+        "prev_avg_rating_podcast", 
+        "prev_shift", 
+        "time_diff_hr"
+    ]
+}
