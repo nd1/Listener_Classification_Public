@@ -1,0 +1,32 @@
+# ignore data files
+ingest/datafiles/valid/*
+ingest/datafiles/train/*
+ingest/datafiles/test/*
+ingest/datafiles/*.csv
+ingest/datafiles/*.json
+ingest/user_id_station_map/*
+<<<<<<< HEAD
+
+__MACOSX
+.DS_Store
+
+.project
+.settings
+.classpath
+.sass-cache/
+
+# OS generated files #
+######################
+*/.DS_Store
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+=======
+model/datafiles/*
+sessions/datafiles/*
+>>>>>>> upstream/master
