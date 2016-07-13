@@ -5,6 +5,7 @@ ingest/datafiles/test/*
 ingest/datafiles/*.csv
 ingest/datafiles/*.json
 ingest/user_id_station_map/*
+wrangle/datafiles/*
 <<<<<<< HEAD
 
 __MACOSX
